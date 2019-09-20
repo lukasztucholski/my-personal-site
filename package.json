@@ -1,0 +1,15 @@
+{
+  "name": "my-personal-site",
+  "version": "0.0.1",
+  "description": "My personal site in Vuepress framework",
+  "main": "index.js",
+  "scripts": {
+    "personal:dev": "vuepress dev src",
+    "personal:build": "vuepress build src"
+  },
+  "author": "Łukasz Tucholski",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.1.0"
+  }
+}
