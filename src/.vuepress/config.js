@@ -31,7 +31,6 @@ module.exports = {
       ['/resume/portfolio/', 'Portfolio'],
       {
         title: 'Skills',
-        path: '/resume/skills',
         collapsable: false,
         children: [
           ['/resume/skills/javascript/', 'JavaScript Ecosystem'],
@@ -42,21 +41,14 @@ module.exports = {
       },
       {
         title: 'Work',
-        path: '/resume/work/',
         collapsable: false,
         children: [
           ['/resume/work/it/', 'IT Sector'],
           ['/resume/work/other/', 'Other']
         ],
       },
-      {
-        title: 'Education',
-        collapsable: false,
-        children: [
-          '/resume/education/',
-        ],
-      },
-      ['/resume/interests/', 'Interests']
+      ['/resume/education/', 'Education'],
+      ['/resume/interests/', 'Interests'],
     ]
   }
 }

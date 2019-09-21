@@ -4,11 +4,11 @@ Webpack, NPM
 ## Version Control System
 Git
 
-## Repositories hostings
+## Repositories Hostings
 GitHub, Bitbucket
 
-## Task Manager
-Jira
+## Issue/Bugs/Task Management
+Jira Software
 
 ## IDE
-Visual Code Studio with extensions
+Visual Studio Code

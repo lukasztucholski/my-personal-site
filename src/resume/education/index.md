@@ -1,4 +1,4 @@
-# General Secondary School
+# Education
 
-### General Secondary School No. 1 in Złotów, Poland
-Extended programmes: Maths, Physics, Geography <br />
+## General Secondary School No. 1 in Złotów, Poland
+Extended programmes: Maths, Physics, Geography.
