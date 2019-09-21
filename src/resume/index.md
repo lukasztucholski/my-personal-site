@@ -1,11 +1,11 @@
-# You can choise two version of my resume
+# You can choose two versions of my resume
 
 ## Extended Version
 ::: tip
-You can navigate in left sidebar for infromations about me as if it were documentation :smirk:
+You can navigate in left sidebar for informations about me as if it were documentation. :smirk:
 :::
 
 ## PDF Version
 ::: warning
-Soon: 2 versions of my short resume in PDF (with and without photo) and graphic thumbnail
+Soon: Two versions of my short resume in PDF (_with_ and _without_ photo) and graphic thumbnail.
 :::

@@ -7,11 +7,9 @@ actionText: Get My Extended Resume →
 actionLink: /resume/
 features:
 - title: JavaScript Developer
-  details: Extended and simple version of Resume. Portfolio. Self Improvement plans & activities.
+  details: Extended and short version of Resume. Portfolio. Self improvement plans & activities.
 - title: DJ Papa Luc
   details: Kizomba, semba, tarraxinha, urban kiz. Recorded sets and tracklists from parties. Upcoming events where I will play.
-- title: Contact
-  details: 'Mobile Phone: +48 695 942 733. E-mail: luk.tucholski@gmail.com'
 footer: MIT Licensed | Copyright © 2019 by Łukasz Tucholski. Created with Vuepress.
 ---
 
@@ -21,5 +19,5 @@ I develop this site as part of learning Vuepress, Markdown and several other too
 :::
 
 ::: tip
-See the source code on the [GitHub Repo](https://github.com/lukasztucholski/my-personal-site)
+See the source code on the [GitHub Repo](https://github.com/lukasztucholski/my-personal-site).
 :::
