@@ -1,7 +1,11 @@
 # Summary
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dolor convallis, tincidunt nunc quis, fringilla nulla. Etiam odio neque, ullamcorper ut leo eget, euismod fringilla quam. Phasellus accumsan scelerisque mauris non gravida. Suspendisse nisi velit, ornare vitae sem at, venenatis condimentum lacus. Aenean ac quam elementum, varius quam eget, porttitor leo. Sed fringilla ullamcorper odio, non fringilla nulla blandit fringilla. Morbi arcu augue, fringilla quis faucibus at, tempus consectetur lacus. Phasellus ultricies imperdiet porttitor.
+I am currently working as a Front-End Developer mainly in the JavaScript framework ecosystem - **Vue.js**.
 
-Quisque quis efficitur orci. Cras varius pretium arcu sit amet condimentum. Vestibulum mauris nunc, semper sit amet dapibus non, fringilla non tellus. Vivamus viverra nulla tempor purus fermentum scelerisque nec et leo. Aenean a felis a tortor scelerisque dapibus. In fermentum, tellus dapibus feugiat malesuada, lectus libero tincidunt orci, sed tincidunt dui velit sollicitudin purus. Proin faucibus a lectus vel cursus. Morbi lobortis turpis euismod metus hendrerit porttitor. Nullam leo purus, scelerisque ut commodo ac, molestie sed lacus.
+The applications we maintain (and write new ones) are mainly based on **Nuxt.js** - the Vue.js framework supporting Server-Side Rendering and Pre-Rendering.
+
+We also use the benefits of the framework for UI components - **Vuetify**.
+
+Privately, I am educating further towards Full-Stack Developer in **Node.js** and I also get to know another JavaScript framework - **React** with **TypeScript**.
 
 
 ## Data Protection Clause
