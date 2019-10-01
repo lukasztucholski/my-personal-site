@@ -1,5 +1,5 @@
 # Networks Profiles
 ## LinkedIn
-[luktucholski](http://linkedin/in/luktucholski)
+![LinkedIn logo](/linkedin.png)[luktucholski](http://linkedin/in/luktucholski)
 ## GitHub
-[lukasztucholski](http://github.com/lukasztucholski)
+![GitHub logo](/github.png)[lukasztucholski](http://github.com/lukasztucholski)
