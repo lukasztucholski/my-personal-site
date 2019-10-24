@@ -6,6 +6,8 @@ You can navigate in left sidebar for informations about me as if it were documen
 :::
 
 ## PDF Version
-::: warning
-Soon: Two versions of my short resume in PDF (_with_ and _without_ photo) and graphic thumbnail.
+::: tip
+Or just download my short resume/CV in PDF format :smile:
 :::
+
+[![Resume Thumbnail](/resume-thumbnail.png)](/resume.pdf)
