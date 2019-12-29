@@ -2,6 +2,6 @@
 ## Name
 Łukasz Tucholski
 ## Profession
-Front-End Developer
+FrontEnd Developer
 ## City
 [Wrocław, Poland](https://www.google.com/maps/place/Wrocław/)
