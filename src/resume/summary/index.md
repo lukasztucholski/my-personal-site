@@ -1,5 +1,5 @@
 # Summary
-I am currently working as a Front-End Developer mainly in the JavaScript framework ecosystem - **Vue.js**.
+I am currently working as a FrontEnd Developer mainly in the JavaScript framework ecosystem - **Vue.js**.
 
 The applications we maintain (and write new ones) are mainly based on **Nuxt.js** - the Vue.js framework supporting Server-Side Rendering and Pre-Rendering.
 
