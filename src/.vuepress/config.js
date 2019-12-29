@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Łukasz Tucholski - Personal Site',
   description: 'My personal site with resume, portfolio and hobbies',
+  plugins: [['@vuepress/google-analytics', { ga: 'UA-155124141-1' }]],
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
@@ -12,12 +13,12 @@ module.exports = {
         ariaLabel: 'Language Menu',
         items: [
           { text: 'English', link: '/' },
-          { text: 'Polski', link: '/' }
-        ]
-      }
+          // { text: 'Polski', link: '/' },
+        ],
+      },
     ],
     sidebar: [
-      ['/resume/', "Home Resume"],
+      ['/resume/', 'Home Resume'],
       {
         title: 'Basics Info',
         collapsable: false,
@@ -36,7 +37,7 @@ module.exports = {
           ['/resume/skills/javascript/', 'JavaScript Ecosystem'],
           ['/resume/skills/tools/', 'Development Tools'],
           ['/resume/skills/markups/', 'Markups Languages, CSS'],
-          ['/resume/skills/other/', 'Other']
+          ['/resume/skills/other/', 'Other'],
         ],
       },
       {
@@ -44,11 +45,11 @@ module.exports = {
         collapsable: false,
         children: [
           ['/resume/work/it/', 'IT Sector'],
-          ['/resume/work/other/', 'Other']
+          ['/resume/work/other/', 'Other'],
         ],
       },
       ['/resume/education/', 'Education'],
       ['/resume/interests/', 'Interests'],
-    ]
-  }
-}
+    ],
+  },
+};
