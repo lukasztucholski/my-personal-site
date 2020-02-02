@@ -1,12 +1,17 @@
 # Portfolio
 
-## Library System
-[GitHub Repo](https://github.com/lukasztucholski/library-system)
+## Kizomba Info Platform
+### This application is under development and is not yet completed.
+[GitHub Repo](https://github.com/lukasztucholski/kizomba-platform)
 * Vue.js
-* Vue Router
-* Firebase Cloud Firestore
-* Firebase Authentication
-* HTML5, CSS3 (SCSS, RWD)
+* TypeScript
+* Vuetify
+
+## Drap & Drop Game
+#### Simple drag and drop memo game made for recruitment process needs.
+[GitHub Repo](https://github.com/lukasztucholski/drag-and-drop-game-vue)
+* Vue.js
+* Drag & Drop API
 
 ## Countdown Timer
 #### With your custom text and generates universal url
@@ -14,6 +19,14 @@
 * Vue.js
 * Vue Router
 * Firebase Cloud Firestore
+* HTML5, CSS3 (SCSS, RWD)
+
+## Library System
+[GitHub Repo](https://github.com/lukasztucholski/library-system)
+* Vue.js
+* Vue Router
+* Firebase Cloud Firestore
+* Firebase Authentication
 * HTML5, CSS3 (SCSS, RWD)
 
 ## Booking Form
