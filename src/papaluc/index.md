@@ -1,9 +1,12 @@
 ---
 sidebar: false
 ---
-## Tracklists:
-[Impreza w NL 24.08](/papaluc/nolimits2408.html)\
-[Impreza w NL 14.09](/papaluc/nolimits1409.html)\
-[Impreza w NL 04.01.20](/papaluc/nolimits040120.html)\
-[KizzWro #183, Szklana Ćma 12.02.20](/papaluc/kizzwro183.html)\
-[Impreza w NL 20.02.20](/papaluc/nolimits200220.html)
+
+## Incoming events
+[Galsen's Bday - Szczecin 20-23.08.2021](https://www.facebook.com/events/510765229986058) <br/>
+[Lunar Weekend - Warsaw 15-18.10.2021](https://www.facebook.com/events/211579514195249) <br /
+
+## Social Media:
+[Soundcloud](https://soundcloud.com/papaluc) <br/>
+[Facebook](https://www.facebook.com/djpapaluc) <br />
+[Instagram](https://www.instagram.com/dj.papaluc) <br />
