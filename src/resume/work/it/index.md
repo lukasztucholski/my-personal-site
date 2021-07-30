@@ -2,11 +2,13 @@
 sidebarDepth: 3
 ---
 
-### 07.2020 - present
-[MasterBorn](https://masterborn.com/)
+[comment]: <> (### 07.2020 - present)
 
-### 04.2020 - 07.2020
-[Linkfactory](https://www.linkfactory.dk/)
+[comment]: <> ([MasterBorn]&#40;https://masterborn.com/&#41;)
+
+[comment]: <> (### 04.2020 - 07.2020)
+
+[comment]: <> ([Linkfactory]&#40;https://www.linkfactory.dk/&#41;)
 
 ## FrontEnd Developer @ MoreFromIT
 ### 04.2019 - 03.2020

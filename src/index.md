@@ -8,8 +8,6 @@ actionLink: /resume/
 features:
 - title: JavaScript Developer
   details: Extended and short version of Resume. Portfolio. Self improvement plans & activities.
-- title: DJ Papa Luc
-  details: Kizomba, semba, tarraxinha, urban kiz. Recorded sets and tracklists from parties. Upcoming events where I will play.
 footer: MIT Licensed | Copyright © 2019 by Łukasz Tucholski. Created with Vuepress.
 ---
 

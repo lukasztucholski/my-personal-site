@@ -6,7 +6,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Extended Resume', link: '/resume/' },
-      { text: 'DJ Papa Luc', link: '/papaluc/' },
+      // { text: 'DJ Papa Luc', link: '/papaluc/' },
       { text: 'Google', link: 'https://google.com' },
       {
         text: 'Languages',
